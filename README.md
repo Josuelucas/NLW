@@ -96,3 +96,31 @@ A partir disso, o HTML é impactado visualmente.
 - Document
 - Objects
 - Model
+
+# API
+    - Application
+    - Programming
+    - Interface
+    - JSON: JavaScript Object Notation
+
+# CDN
+    - ContentConteúdo
+    - DeliveryEntrega
+    - NetworkRede
+
+# LLM 
+    - LargeGrande
+    - LanguageIdioma
+    - ModelModelo
+    - Gemini, OpenAI (chatGPT), Anthropic (Claude) ...
+    - Gêmeos, OpenAI (chatGPT), Antrópico (Claude) ...
+# Agentes AI
+- Tools (ferramentas): permitem uso de código, ou apps, ou qualquer informação extra.
+- Melhor contexto
+# Engenharia de prompt
+- One shot: uma única pergunta sem muito contexto
+- Few shot: é apresentado exemplos do que se espera
+- Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução.
+
+
+
